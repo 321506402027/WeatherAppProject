@@ -18,5 +18,7 @@ threadpoolctl==3.6.0  # Optional, remove if not used
 typing_extensions==4.12.2
 tzdata==2025.2  # Optional, remove if not required for time zone data
 urllib3==2.3.0
-setuptools>=65.5.0
+setuptools>=58.0.0
+wheel
+
 
