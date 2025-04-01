@@ -1,3 +1,6 @@
+# Python dependencies for Django app
+
+# Required dependencies
 asgiref==3.8.1
 certifi==2025.1.31
 charset-normalizer==3.4.1
@@ -20,6 +23,7 @@ tzdata==2025.2  # Optional, remove if not required for time zone data
 urllib3==2.3.0
 setuptools>=58.0.0
 wheel
+pip>=22.0.0
 
 
 
