@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "builds": [
     {
       "src": "WeatherProject/wsgi.py",
@@ -17,4 +16,3 @@
     }
   ]
 }
-
